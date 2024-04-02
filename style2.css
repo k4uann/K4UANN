@@ -17,3 +17,14 @@
 .lista-item{
 display: inline-block;
 }
+.primeira-parte{
+    background-image: linear-gradient(#424e61,white); 
+    height: 500px;
+    padding: 100px;
+}
+.primeiro-paragrafo{
+    padding: 15px;
+}
+.segundo-paragrafo{
+    padding: 15px;
+}
