@@ -4,13 +4,12 @@
 }
 
 .cabecalho{
-    background-color: #424e61;
+    background-color: #2440e2;
     display:flex;
     justify-content: space-around;
     }
-
     .lista-cabecalho{
-        color: white;
+        color: rgb(255, 255, 255);
         font-size: 23px;
     }
 
@@ -18,13 +17,18 @@
 display: inline-block;
 }
 .primeira-parte{
-    background-image: linear-gradient(#424e61,white); 
+    background-image: linear-gradient(#2440e2,rgb(255, 255, 255)); 
     height: 500px;
     padding: 100px;
+    display: flex;
+    color: white;
 }
 .primeiro-paragrafo{
     padding: 15px;
 }
 .segundo-paragrafo{
     padding: 15px;
+}
+.foto-estudante{
+width: 40%;
 }
