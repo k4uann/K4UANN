@@ -34,3 +34,12 @@ padding: 25px;
 .foto-estudante{
 width: 40%;
 }
+.titulo-estudantes{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.textos{
+    padding: 15px;
+    width: 35%;
+}
